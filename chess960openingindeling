@@ -1,0 +1,55 @@
+Kunnen de chess960 mogelijke openingen worden ingedeeld op basis van eigenschappen 
+ChatGPT said:
+
+Ja, de Chess960-openingen kunnen zeker worden ingedeeld op basis van bepaalde eigenschappen, hoewel het complexer is dan bij klassiek schaken vanwege de 960 mogelijke beginstellingen. Toch zijn er een aantal manieren waarop je deze openingen zou kunnen categoriseren:
+1. Koningveiligheid / rokade-opties
+
+    Vroege veilige rokade mogelijk: Sommige stellingen maken het makkelijk om snel te rokeren (bijv. koning en toren staan al "bijna" in klassieke opstelling).
+
+    Moeilijke rokade: Andere stellingen vereisen dat je eerst stukken verplaatst voordat je kunt rokeren.
+
+    Beide kanten open / gesloten: Sommige posities nodigen uit tot korte of lange rokade, afhankelijk van open lijnen of pionstructuur.
+
+2. Ontwikkelingsgemak
+
+    Snelle ontwikkeling: Bijvoorbeeld als lopers al op open diagonalen staan of als paarden makkelijk naar actieve velden kunnen.
+
+    Trage ontwikkeling: Als stukken elkaar blokkeren of als je veel zetten nodig hebt om stukken actief te krijgen.
+
+3. Symmetrie
+
+    Symmetrische opstelling: Wit en zwart hebben dezelfde plaatsing van stukken. Dit kan leiden tot meer voorspelbare strategische plannen.
+
+    Asymmetrisch: Strategieën kunnen hier veel unieker zijn.
+
+4. Centrale controle / toegang
+
+    Directe centrale invloed: Stukken staan zó gepositioneerd dat ze snel invloed op het centrum kunnen uitoefenen.
+
+    Indirecte controle: Meer geflankeerde opstellingen waarbij het centrum pas later onder druk komt.
+
+5. Vastlopen / beperkte mobiliteit
+
+    Sommige beginstellingen zijn ronduit onhandig en vereisen veel "voorbereidende" zetten om goed te kunnen spelen.
+
+6. Opstellingstype (vergelijking met klassieke openingen)
+
+    Lijkt op klassieke opening: Sommige FRC-startposities bootsen klassieke thema's na, zoals de Spaanse of Siciliaanse opstellingen.
+
+    Compleet origineel: Andere posities lijken nergens op en vereisen meer creatief denken.
+
+Idee voor indeling:
+
+Je zou bijvoorbeeld een matrix kunnen maken met assen zoals:
+
+    Rokademogelijkheid (snel / langzaam / lastig)
+
+    Ontwikkelingspotentieel (hoog / gemiddeld / laag)
+
+    Loperontwikkeling (direct / indirect)
+
+    Open lijnen beschikbaar (ja / nee)
+
+    Symmetrie (symmetrisch / asymmetrisch)
+
+Zou je graag een visueel voorbeeld of indeling van een paar specifieke startposities willen?

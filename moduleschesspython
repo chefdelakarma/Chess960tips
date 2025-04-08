@@ -1,0 +1,37 @@
+python-chess:
+
+    A popular library for handling chess games, including move generation, validation, and support for common formats like PGN and FEN.
+
+    It can also be used for creating chess engines or playing against an AI.
+
+    Installation: pip install python-chess
+
+    Documentation: python-chess
+
+chess:
+
+    Another chess module that provides functionality for chess games, board setup, and move validation.
+
+    Installation: pip install chess
+
+    Documentation: chess on PyPI
+
+Stockfish:
+
+    Though not a Python module by itself, Stockfish is a powerful open-source chess engine. You can integrate it with Python using the python-chess module to play against it or analyze positions.
+
+    Stockfish: https://stockfishchess.org/
+
+PyChess:
+
+    A GTK+ based chess interface with support for Python. It can be used to build a graphical chess interface and integrate it with Python chess engines.
+
+    Installation: pip install pychess
+
+    Documentation: PyChess
+
+chess-board:
+
+    A simple library for displaying and interacting with a chess board using ASCII art in the terminal.
+
+    Installation: pip install chess-board
